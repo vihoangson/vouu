@@ -1,0 +1,17 @@
+"Block Name","Block Label","Block Note","Block Category","Block Type","Global (show in site-wide)","Global (show in pages)",Templates,"Block Order","Block Active"
+meta_title,"Meta Title",,"SEO Conent",string,yes,yes,"contact,home,internal,sitemap",20,1
+meta_description,"Meta Description",,"SEO Conent",text,yes,yes,"contact,home,internal,sitemap",30,1
+meta_keywords,"Meta Keywords",,"SEO Conent",text,yes,yes,"contact,home,internal,sitemap",40,1
+header_html,"Header Html",,Header,text,yes,no,"contact,home,internal,sitemap",50,1
+footer_left,"Footer Left",,Footer,string,yes,no,"contact,home,internal,sitemap",90,1
+email,Email,,Footer,string,yes,no,"contact,home,internal,sitemap",110,1
+phone,Phone,,Footer,string,yes,no,"contact,home,internal,sitemap",110,1
+footer_html,"Footer Html",,Footer,text,yes,no,"contact,home,internal,sitemap",130,1
+title,Title,,"Main Content",string,no,no,"contact,home,internal,sitemap",60,1
+content,Content,,"Main Content",richtext,no,no,"contact,home,internal",70,1
+contact_form,Contact,,"Main Content",form,no,no,contact,80,1
+contact_form_text,"Contact Form Text",,"Main Content",string,no,no,contact,75,1
+carousel,Carousel,,Banner,repeater,no,no,home,60,1
+image,Image,,"Main Content",image,no,no,internal,80,1
+slide_image,"Slide Image",,"Main Content",image,no,no,,20,1
+slide_title,"Slide Title",,"Main Content",string,no,no,,30,1
